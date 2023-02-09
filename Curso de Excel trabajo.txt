@@ -1,0 +1,22 @@
+1er clase
+
+BBDD: se divide en dos partes "campos" y "registros
+
+1) formula y funcion: es lo mismo o diferente?
+formula: componentes que logran una funcion
+funcion: lo que logra la formula
+
+=nombre(argumento1; argumento2; argumentos que pida excel)
+
+
+La idea de las formulas es que sea:
+facil rapida y simple de actualizar
+
+Conceptos de la celda:
+el valor de la celda y el contenido de la celda
+referencia es una posicion dentro de una tabla donde se ecnuentra un dato
+
+en que difieron las siguientes referencias
+Absoluta
+relativa
+mixta
